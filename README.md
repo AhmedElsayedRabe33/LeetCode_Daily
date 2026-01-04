@@ -6,10 +6,12 @@
 | ------- |
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 ## Hash Table
 |  |
 | ------- |
