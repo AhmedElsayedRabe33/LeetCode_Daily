@@ -1,24 +1,21 @@
 class Solution {
 public:
     int sumFourDivisors(vector<int>& nums) {
-        int ans = 0 ;
-        for(auto it : nums){
-            vector<int>have ;
-            int sum = 0;
-            for(int i = 1 ; i*i <=it ;i++){
-                if(it%i ==0){
-                   have.push_back(i),sum+=i;
-                    if(i!=(it/i))
-                        have.push_back(it/i),sum+=it/i;
-                }
-                if(have.size()>4){
-                    break;
-                }
-            }
-                if(have.size()==4){
-                    ans +=sum;
-                }
+        const int N = 1e5+1;
+       vector<int>divs(N,0);
+       vector<long long>divs_sum(N,0);
+       for(int i =1 ; i<N ;i++){
+        for(int j = i ; j<N ;j+=i){
+            divs[j]++;
+            divs_sum[j]+=i;
         }
+       }
+       int ans = 0 ;
+       for(auto it : nums){
+        if(divs[it]==4){
+            ans +=divs_sum[it];
+        }
+       }
        return ans ;
     }
 };
