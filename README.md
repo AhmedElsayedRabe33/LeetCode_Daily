@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
