@@ -11,6 +11,7 @@
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
