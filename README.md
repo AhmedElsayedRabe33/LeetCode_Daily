@@ -15,6 +15,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
