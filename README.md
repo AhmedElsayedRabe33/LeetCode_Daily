@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
@@ -105,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
