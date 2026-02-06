@@ -23,6 +23,7 @@
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3637-trionic-array-i) |
 ## Math
 |  |
@@ -115,6 +116,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
 | ------- |
