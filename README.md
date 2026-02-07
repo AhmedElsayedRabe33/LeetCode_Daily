@@ -44,6 +44,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -81,11 +82,13 @@
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
