@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -92,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -148,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sliding Window
 |  |
@@ -171,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
