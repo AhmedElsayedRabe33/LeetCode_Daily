@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
