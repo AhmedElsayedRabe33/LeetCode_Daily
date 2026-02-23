@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
@@ -98,6 +99,7 @@
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
@@ -159,6 +161,7 @@
 | [0401-binary-watch](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sliding Window
 |  |
@@ -207,4 +210,12 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0696-count-binary-substrings) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
