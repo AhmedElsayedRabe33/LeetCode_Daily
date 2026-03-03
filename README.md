@@ -111,6 +111,7 @@
 | [0761-special-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
