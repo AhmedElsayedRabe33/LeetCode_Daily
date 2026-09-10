@@ -329,6 +329,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -343,6 +344,7 @@
 | [1428-jump-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3561-remove-methods-from-project) |
@@ -372,6 +374,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
