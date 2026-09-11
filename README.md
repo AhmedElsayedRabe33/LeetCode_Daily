@@ -116,6 +116,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -221,6 +222,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -520,6 +522,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -706,6 +709,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3799-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
