@@ -11,6 +11,6 @@ public:
         int g = rec2[2];
         int h = rec2[3];
 
-        return (a < g and e < c and b < h and f < d);
+        return (max(a,e) < min(c,g) and max(b,f) < min(d,h));
     }
 };
