@@ -157,6 +157,7 @@
 | [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-stone-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -248,6 +249,7 @@
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1685-stone-game-v](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
@@ -535,6 +537,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1240-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -786,4 +789,8 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
