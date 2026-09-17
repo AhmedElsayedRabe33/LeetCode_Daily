@@ -42,13 +42,13 @@ public:
         vector<int> vals;
         for (auto& [a, b, c] : have) {
             vals.push_back(c);
-            cout << a << " "<<b <<" "<<c<<endl;
         }
         if (vals.size())
             build(vals);
         for (int i = 0; i < have.size(); i++) {
-           int a = upper_bound(have.begin() + i + 1, have.end(),
-                    array<int, 3>{have[i][1], 2000000000, 2000000000}) - have.begin();
+            int a = lower_bound(have.begin() + i + 1, have.end(),
+                                array<int, 3>{have[i][1] + 1, 0, 0}) -
+                    have.begin();
             int b = have.size() - 1;
             if (a <= have.size() - 1 and a <= b) {
                 int mn = query2_MIN(a, b);
