@@ -153,6 +153,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1390-four-divisors) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1622-fancy-sequence) |
@@ -452,6 +453,7 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0866-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1266-minimum-time-visiting-all-points) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Binary Search
 |  |
