@@ -432,6 +432,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3939-process-string-with-special-operations-ii) |
@@ -644,6 +645,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4216-weighted-word-mapping) |
