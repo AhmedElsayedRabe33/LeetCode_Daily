@@ -122,6 +122,7 @@
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3840-find-x-value-of-array-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3919-network-recovery-pathways) |
@@ -177,6 +178,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3840-find-x-value-of-array-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
@@ -486,6 +488,7 @@
 | [3435-block-placement-queries](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3435-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3840-find-x-value-of-array-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -794,7 +797,7 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
-## Sprague–Grundy Theorem
+## SpragueâGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
