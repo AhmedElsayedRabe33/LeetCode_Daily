@@ -797,7 +797,7 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
