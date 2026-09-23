@@ -20,29 +20,18 @@ public:
         if (x > sum)
             return -1;
         reverse(suff.begin(), suff.end());
+        int tst = x;
+        auto it = lower_bound(suff.begin(), suff.end(), tst) - suff.begin();
+        if (suff[it] == tst and (it + 1) <= n) {
+            ans = min<int>(ans, (it + 1));
+        }
         for (int i = 0; i < n; i++) {
             int want = x - pre[i];
             if (want > 0) {
                 auto it =
                     lower_bound(suff.begin(), suff.end(), want) - suff.begin();
-                    // cout <<(i+1) << " "<<(it) <<" "<<suff[it]<<" "<<want<<endl;
-                if (suff[it] == want and ((i + 1) + (it+1)) <= n) {
-                    ans = min<int>(ans, (i + 1) + (it+1));
-                }
-            } else if (want == 0) {
-                ans = min(ans, i + 1);
-            } else {
-                break;
-            }
-            cout << ans << endl;
-        }
-        cout << endl;
-        for (int i = 0; i < n; i++) {
-            int want = x - suff[i];
-            if (want > 0) {
-                auto it =
-                    lower_bound(pre.begin(), pre.end(), want) - pre.begin();
-                if (pre[it] == want and ((i + 1) + (it + 1)) <= n) {
+                // cout <<(i+1) << " "<<(it) <<" "<<suff[it]<<" "<<want<<endl;
+                if (suff[it] == want and ((i + 1) + (it + 1)) <= n) {
                     ans = min<int>(ans, (i + 1) + (it + 1));
                 }
             } else if (want == 0) {
@@ -50,7 +39,6 @@ public:
             } else {
                 break;
             }
-            cout << ans << endl;
         }
         return (ans == 2e9 ? -1 : ans);
     }
