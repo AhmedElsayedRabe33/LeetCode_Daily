@@ -126,6 +126,7 @@
 | [3840-find-x-value-of-array-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3840-find-x-value-of-array-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3919-network-recovery-pathways](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4005-maximum-total-subarray-value-i) |
@@ -183,6 +184,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -802,7 +804,7 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
