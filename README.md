@@ -54,6 +54,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1975-maximum-matrix-sum) |
@@ -210,6 +211,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2615-sum-of-distances) |
@@ -416,6 +418,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1980-find-unique-binary-string) |
 | [2001-jump-game-vii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2001-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -804,7 +807,7 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
