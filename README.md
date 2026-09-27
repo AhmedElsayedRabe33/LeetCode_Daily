@@ -408,6 +408,7 @@
 | [0761-special-binary-string](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0761-special-binary-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1297-maximum-number-of-balloons) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -452,6 +453,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/0085-maximal-rectangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahmed543252/LeetCode_Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -807,7 +809,7 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2156-stone-game-ix) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1617-stone-game-iv) |
@@ -815,4 +817,8 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
