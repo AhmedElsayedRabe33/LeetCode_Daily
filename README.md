@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
@@ -13,4 +14,16 @@
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Hash Table
+|  |
+| ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
