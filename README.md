@@ -40,4 +40,20 @@
 |  |
 | ------- |
 | [4047-longest-balanced-subarray-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4047-longest-balanced-subarray-ii) |
+## String
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
