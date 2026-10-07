@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
