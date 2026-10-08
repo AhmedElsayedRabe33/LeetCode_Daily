@@ -45,10 +45,12 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
