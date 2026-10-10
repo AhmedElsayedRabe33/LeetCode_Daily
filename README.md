@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4047-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -27,6 +29,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Divide and Conquer
 |  |
@@ -58,6 +61,7 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,4 +76,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
