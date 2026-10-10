@@ -46,20 +46,24 @@
 | [0301-remove-invalid-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1078-remove-outermost-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
