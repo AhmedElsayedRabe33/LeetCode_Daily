@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4047-longest-balanced-subarray-ii) |
@@ -16,6 +17,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
