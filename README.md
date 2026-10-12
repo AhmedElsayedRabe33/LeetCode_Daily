@@ -6,6 +6,7 @@
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4047-longest-balanced-subarray-ii) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/4047-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -64,6 +66,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/2418-minimum-sum-of-squared-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AhmedElsayedRabe33/LeetCode_Daily/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
